@@ -1,0 +1,23 @@
+{
+  "name": "nest-mail",
+  "version": "1.0.0",
+  "description": "An NPM package to send mail with the hackclub.app server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opott/Nest-Mail.git"
+  },
+  "author": "opott",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/opott/Nest-Mail/issues"
+  },
+  "homepage": "https://github.com/opott/Nest-Mail#readme",
+  "dependencies": {
+    "nodemailer": "^6.10.0",
+    "readline-sync": "^1.4.10"
+  }
+}
